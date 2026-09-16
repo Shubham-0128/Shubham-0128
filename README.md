@@ -18,3 +18,8 @@ Currently focused on:
 **Languages:** Python · JavaScript · Java
 
 **Tools:** Git · GitHub · Linux
+
+## Featured Project
+
+### [MoneyMind](https://github.com/Shubham-0128/Moneymind)
+A personal finance tracker with user authentication, persistent expense data, and personalized financial insights.
