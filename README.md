@@ -6,3 +6,9 @@ Currently focused on:
 - Software development
 - Data Structures & Algorithms
 - Open Source
+  
+## What I'm working on
+
+- Building software projects that solve real problems
+- Contributing to open source
+- Improving my problem-solving skills through DSA
