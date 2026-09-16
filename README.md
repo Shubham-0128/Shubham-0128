@@ -12,3 +12,9 @@ Currently focused on:
 - Building software projects that solve real problems
 - Contributing to open source
 - Improving my problem-solving skills through DSA
+
+## Tech
+
+**Languages:** Python · JavaScript · Java
+
+**Tools:** Git · GitHub · Linux
