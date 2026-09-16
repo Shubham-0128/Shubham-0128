@@ -23,3 +23,8 @@ Currently focused on:
 
 ### [MoneyMind](https://github.com/Shubham-0128/Moneymind)
 A personal finance tracker with user authentication, persistent expense data, and personalized financial insights.
+
+<p align="center">
+  <a href="https://github.com/Shubham-0128">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/shubham-jha-b53099346/">LinkedIn</a>
+</p>
